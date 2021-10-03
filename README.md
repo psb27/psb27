@@ -1,4 +1,4 @@
-![](https://github.com/user/Banner.jpg)
+![](https://github.com/psb27/psb27/blob/main/Banner.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Prateek Singh</h1>
