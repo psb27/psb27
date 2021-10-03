@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psb27&label=Profile%20views&color=0e75b6&style=flat" alt="psb27" /> </p>
 
-<a href="#" ><img width="200px" height="200px" align="right" src="https://drive.google.com/file/d/1k09gHykaxrUgcMQSJguPyafcOYkOGS6Z/view?usp=sharing" /> </a>
-
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
