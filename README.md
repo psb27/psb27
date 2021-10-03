@@ -1,3 +1,5 @@
+![](https://github.com/user/Banner.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Prateek Singh</h1>
 <h3 align="center">A passionate Full Stack developer, Open Source Enthusiast.</h3>
