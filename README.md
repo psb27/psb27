@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Prateek Singh</h1>
 <h3 align="center">A passionate Full Stack developer, Open Source Enthusiast.</h3>
 
+[![An image of @psb271's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/psb271)](https://holopin.io/@psb271)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psb27&label=Profile%20views&color=0e75b6&style=flat" alt="psb27" /> </p>
 
 
